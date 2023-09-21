@@ -1,0 +1,58 @@
+html{
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Krub', sans-serif;
+    background-color: #757575;
+   
+}
+
+
+h1 span {
+    color:#ffc107;
+    font-size: 2.2rem;
+
+}
+
+
+h1{
+    color:black;
+    font-size: 4rem;
+}
+
+.Img{
+    background-image: url(../imagenes/racoon.jpg);
+    background-repeat: no repeat;
+    background-size: cover; /*Es para que no se corte la imagen el cover*/
+    height: 1000px;px;
+    padding: 15px;
+}
+
+h2{
+    color:crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.2rem;
+}
+
+h3{
+    color:crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.2rem;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+nav{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#212121;
+    font-size: 3.5rem;
+    
+    
+}
